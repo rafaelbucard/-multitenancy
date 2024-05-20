@@ -1,7 +1,7 @@
-# SaaS com estrutura multitenancy
+# A dashboard for automated reports using OpenAI's generative model
 
-# SaaS with multitenancy structure
+In this project, we connect a Laravel application with the OpenAI API and use the ChatGPT model to create reports in natural language.
 
-Dashboards inteligentes com Laravel, Livewire e OpenAI que geram relatórios dinâmicos através da conexão com a API da OpenAI
+# Um dashboard para relatórios automatizados usando o modelo generativo da OpenAI
 
-Intelligent dashboards using Laravel, Livewire, and OpenAI that generate dynamic reports through connection with the OpenAI API
+Neste projeto, conectamos uma aplicação Laravel com a API da OpenAI e usamos o modelo ChatGPT para criar relatórios em linguagem natura
